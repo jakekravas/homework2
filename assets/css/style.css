@@ -35,7 +35,17 @@ li a {
     font-size: 18px;
 }
 
-/* footer */
+/* Portfolio */
+.pf-label {
+    background: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    margin-top: -28%;
+    position: relative;
+    z-index: 1;
+}
+
+/* Footer */
 footer {
     background: #666;
     border-top: 8px solid #4aaaa5;
