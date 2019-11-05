@@ -51,6 +51,10 @@ li a {
     background: #4aaaa5;
 }
 
+.my-btn:hover {
+    background: #3a8683;
+}
+
 /* Footer */
 footer {
     background: #666;
