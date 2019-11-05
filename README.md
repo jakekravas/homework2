@@ -1,1 +1,3 @@
 # homework2
+
+In this project, my main goal was to create a personal portfolio webpage that almost identically resembled the previous one that I made, only this time it would be primarily styled with Bootstrap, something I've never known about until recently. This project helped me get a feel for just how powerful and efficent Bootstrap can be, especially when it comes to responsive layouts. It certainly took a bit of getting used to, but once I got the hang of it, it became a much quicker process than writing up all of thre CSS on my own, and not having to worry about the nuances of manually inputted media queries was definitely a huge plus. I used material that I learned in class as well as outside resources to help me put this project together.
