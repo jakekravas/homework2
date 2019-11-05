@@ -27,9 +27,21 @@ li a {
 /* Showcase */
 #showcase {
     background: url("../images/concrete-texture.png");
+    height: 90vh;
 }
 
 .showcase-text {
     line-height: 2;
     font-size: 18px;
+}
+
+/* footer */
+footer {
+    background: #666;
+    border-top: 8px solid #4aaaa5;
+    /* padding: 34px 0 10px 0; */
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 10vh;
 }
