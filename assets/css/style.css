@@ -46,6 +46,11 @@ li a {
     z-index: 1;
 }
 
+/* Contact */
+.my-btn {
+    background: #4aaaa5;
+}
+
 /* Footer */
 footer {
     background: #666;
