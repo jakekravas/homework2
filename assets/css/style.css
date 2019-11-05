@@ -8,6 +8,12 @@ body {
     color: #f6f6f6;
 }
 
+.my-card-header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #4aaaa5;
+    border-bottom: 3px solid #dddddd;
+}
+
 .nav-border {
     border-bottom: 2px solid #cccccc;
 }
@@ -17,3 +23,7 @@ li a {
     color: #777;
 }
 
+/* Showcase */
+#showcase {
+    background: url("../images/concrete-texture.png");
+}
