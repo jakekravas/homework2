@@ -8,6 +8,10 @@ body {
     color: #f6f6f6;
 }
 
+.nav-border {
+    border-bottom: 2px solid #cccccc;
+}
+
 li a {
     font-size: 20px;
     color: #777;
