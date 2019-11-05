@@ -39,9 +39,5 @@ li a {
 footer {
     background: #666;
     border-top: 8px solid #4aaaa5;
-    /* padding: 34px 0 10px 0; */
-    position: fixed;
-    bottom: 0;
-    width: 100vw;
     height: 10vh;
 }
