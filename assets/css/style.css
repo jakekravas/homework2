@@ -3,6 +3,7 @@ body {
     color: #777;
 }
 
+/* Name styling */
 .my-name {
     font-family: Georgia, 'Times New Roman', Times, serif;
     background: #4aaaa5;
@@ -24,7 +25,7 @@ li a {
     color: #777;
 }
 
-/* Showcase */
+/* Showcase (main display area) */
 #showcase {
     background: url("../images/concrete-texture.png");
     min-height: 85vh;
